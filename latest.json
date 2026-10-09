@@ -1,11 +1,11 @@
 {
-  "pub_date": "2026-10-09T07:31:03Z",
-  "version": "1.3.5",
+  "pub_date": "2026-10-09T09:38:29Z",
+  "notes": "Meeramax Fee Manager 1.3.6 — signed Windows update",
   "platforms": {
     "windows-x86_64": {
-      "url": "https://raw.githubusercontent.com/DevilF7/FeeAPP-Releases/main/releases/1.3.5/Meeramax-Fee-Manager-1.3.5-setup.exe",
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb3JRa21VcDJRb21iTW5SWDdRS3YzQ3JZekJMZnlGcVlHUzhNdlJUc29NQi9hVDRYcytpcFdkWkF0cHljNTI0K1dQcWlxU09ITTJHYXBYTGFaQTVmeFNrWVZ0MjcxUEFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTMxMDUxCWZpbGU6TWVlcmFtYXggRmVlIE1hbmFnZXJfMS4zLjVfeDY0LXNldHVwLmV4ZQpUTW9GR09QNEpXbERNck1pNmxZeTNETjVhR296WlovLzEzRU9LQ0FQRkxZUlFTelF4bU9IT3ZsVzd5QlF5eDlKVGhSY3hOa2FBeUZWcEQ3TmF2MmJCUT09Cg=="
+      "url": "https://raw.githubusercontent.com/DevilF7/FeeAPP-Releases/main/releases/1.3.6/Meeramax-Fee-Manager-1.3.6-setup.exe",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVUb3JRa21VcDJRb2lIb2ZMRmg3aml2SzE5UjgwcmZoWFFZQXduakg2NVpxU0x0LzlKMUphK1JkNCtFQkpqRHZsVk9hakMxbSsrYllWUnBxSjRHZUtZV2UwRzFyS1FiZ0FvPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkxNTM4Njk4CWZpbGU6TWVlcmFtYXggRmVlIE1hbmFnZXJfMS4zLjZfeDY0LXNldHVwLmV4ZQpvMG53TjB1cUd3dHdNTUFlZWF5SUt6V0lEcjhYQkNQK3g3ankzSDNtMG9aQzA1clExYkNuQ28xakc0bEQram9DcHJWUVJ3cUpoWFFWOGZ4REtXY0lDUT09Cg=="
     }
   },
-  "notes": "Meeramax Fee Manager 1.3.5 — signed Windows update"
+  "version": "1.3.6"
 }
